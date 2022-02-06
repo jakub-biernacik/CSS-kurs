@@ -1,32 +1,20 @@
-/**********
-*
-*Autor: Jakub
-*Data: 06.02.2022
-*
-***********/
-
-
-/* Targetowanie elementów */
-
-p{
-font-size: 18px;
-color: green;
+/* Targetowanie elementów / tagów */
+h2 {
+font-size: 24px;
 }
 
-a{
-text-decoration: underline;
+#content-header{
+font-size: 18px;
+color: red;
+}
+/* wstawiając # css szuka id */
+
+span{
+display: block;
 color: blue;
 }
 
-span{
-text-transform: uppercase;
+.deck{
+    color: red;
 }
-
-h1{
-font-size: 32px;
-}
-
-div{
-width: 100%;
-background-color: grey;
-}
+/* wstawiając . css szuka class */
