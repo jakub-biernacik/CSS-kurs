@@ -1,4 +1,27 @@
+/**********
+*
+*Autor: Jakub
+*Data: 06.02.2022
+*
+***********/
+/* stylowanie wszystkich paragrafów */
+
 p {
 font-size: 18px;
 color: green;
 }
+
+#header p {
+font-size: 24px;
+}
+
+/* stylowanie wszystkich tagów z heada */ 
+
+h1{
+font-size: 44px;
+}
+
+
+
+
+
