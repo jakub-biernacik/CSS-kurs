@@ -1,3 +1,18 @@
-#all-articles h2 + p{
+span[class~="deck"] {
+    color: purple;
+}
+/* class z "~" sprawia, że wszystkie
+klasy z dopiskiem deck zostają uwzględnione*/
+
+div[id]  {
+    background: grey;
+}
+a[href^="http"] {
     color: green;
 }
+
+/* href z $ uwzględnia wszystkie
+hrefy z pdf na końcu 
+href z ^ służy do linków
+
+*/
