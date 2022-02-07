@@ -1,18 +1,7 @@
-span[class~="deck"] {
-    color: purple;
+a:hover{
+color: red;
 }
-/* class z "~" sprawia, że wszystkie
-klasy z dopiskiem deck zostają uwzględnione*/
 
-div[id]  {
+#main-content:hover{
     background: grey;
 }
-a[href^="http"] {
-    color: green;
-}
-
-/* href z $ uwzględnia wszystkie
-hrefy z pdf na końcu 
-href z ^ służy do linków
-
-*/
