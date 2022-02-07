@@ -1,7 +1,14 @@
-article p:first-of-type{
-    font-weight: bold;
+li:nth-child(1), li:nth-child(7){
+font-weight: bold;
 }
 
-article p:last-of-type{
-    color: red;
+li:nth-child(even){
+    background: grey;
+}
+
+li:nth-child(odd){
+    background: darkorange;
+}
+li:nth-child(3n + 1){
+    color: green;
 }
