@@ -12,8 +12,11 @@
     border-radius: 4px;
     background: blue;
     background: -moz-linear-gradient(top, #aadddd 0%, #2f4949 100%);
+    /*supported by Mozilla*/
     background: -webkit-linear-gradient(top, #aadddd 0%, #2f4949 100%);
+    /*supported by Chrome*/
     background: linear-gradient(top, #aadddd 0%, #2f4949 100%);
+    box-shadow: 2px 4px 4px 2px #2f4949;
 }
 
 .button:hover{
