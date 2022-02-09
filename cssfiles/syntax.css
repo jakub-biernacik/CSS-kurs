@@ -1,14 +1,6 @@
 #banner{
     width: 100%;
     height: 300px;
-   background-color: grey;
-   background-image: url(C:\Users/mlody/Desktop/bufor.png), url(C:\Users/mlody/Desktop/noodle.jpg);
-   background-repeat: no-repeat;
-    background-size: 100px, 100%;
-    background-position: center, top left;
-} 
-
-/*
-C:\Users/mlody/Desktop/bufor.png 
-C:\Users/mlody/Desktop/star.png
-*/
+   background-color: #5200f0
+}
+/*00-red 00-green 00-blue*/
