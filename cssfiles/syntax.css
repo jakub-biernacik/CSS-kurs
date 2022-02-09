@@ -1,4 +1,10 @@
+#header h1{
+    color: coral;
+}
 
-body > p{
-    text-transform: uppercase;
+#header h2{
+    color: #567989;
+}
+#header{
+    background-color: bisque;
 }
