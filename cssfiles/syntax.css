@@ -1,9 +1,7 @@
 .static-width{
     width: 300px;
     height: 300px;
-    background-color: cornflowerblue;
-    background-image: url(C:\Users/mlody/Desktop/bufor.png);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: 50px;
-}
+   background: url(C:\Users/mlody/Desktop/bufor.png) no-repeat top center;
+   background-size: 50px;
+   background-color: cornflowerblue;
+} 
