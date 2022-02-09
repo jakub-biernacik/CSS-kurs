@@ -1,10 +1,10 @@
-#header h1{
-    color: coral;
+a{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
 }
-
-#header h2{
-    color: #567989;
-}
-#header{
-    background-color: bisque;
+a:hover{
+    color:blueviolet;
+    text-decoration: underline;
+    background-color:burlywood;
 }
